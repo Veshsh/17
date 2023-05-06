@@ -1,0 +1,77 @@
+C:\Users\vanya\source\repos\5NET\5NET\bin\Debug\net6.0-windows\5NET.exe
+C:\Users\vanya\source\repos\5NET\5NET\bin\Debug\net6.0-windows\5NET.deps.json
+C:\Users\vanya\source\repos\5NET\5NET\bin\Debug\net6.0-windows\5NET.runtimeconfig.json
+C:\Users\vanya\source\repos\5NET\5NET\bin\Debug\net6.0-windows\5NET.dll
+C:\Users\vanya\source\repos\5NET\5NET\bin\Debug\net6.0-windows\5NET.pdb
+C:\Users\vanya\source\repos\5NET\5NET\obj\Debug\net6.0-windows\5NET.csproj.AssemblyReference.cache
+C:\Users\vanya\source\repos\5NET\5NET\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\vanya\source\repos\5NET\5NET\obj\Debug\net6.0-windows\5NET_MarkupCompile.cache
+C:\Users\vanya\source\repos\5NET\5NET\obj\Debug\net6.0-windows\5NET_MarkupCompile.lref
+C:\Users\vanya\source\repos\5NET\5NET\obj\Debug\net6.0-windows\5NET.g.resources
+C:\Users\vanya\source\repos\5NET\5NET\obj\Debug\net6.0-windows\5NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanya\source\repos\5NET\5NET\obj\Debug\net6.0-windows\5NET.AssemblyInfoInputs.cache
+C:\Users\vanya\source\repos\5NET\5NET\obj\Debug\net6.0-windows\5NET.AssemblyInfo.cs
+C:\Users\vanya\source\repos\5NET\5NET\obj\Debug\net6.0-windows\5NET.csproj.CoreCompileInputs.cache
+C:\Users\vanya\source\repos\5NET\5NET\obj\Debug\net6.0-windows\5NET.dll
+C:\Users\vanya\source\repos\5NET\5NET\obj\Debug\net6.0-windows\refint\5NET.dll
+C:\Users\vanya\source\repos\5NET\5NET\obj\Debug\net6.0-windows\5NET.pdb
+C:\Users\vanya\source\repos\5NET\5NET\obj\Debug\net6.0-windows\5NET.genruntimeconfig.cache
+C:\Users\vanya\source\repos\5NET\5NET\obj\Debug\net6.0-windows\ref\5NET.dll
+C:\Users\vanya\source\repos\5NET\5NET\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\vanya\source\repos\5NET\5NET\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\vanya\source\repos\5NET\5NET\bin\Debug\net6.0-windows\Prism.dll
+C:\Users\vanya\source\repos\5NET\5NET\obj\Debug\net6.0-windows\5NET.csproj.CopyComplete
+C:\Users\vanya\source\repos\5NET\5NET\obj\Debug\net6.0-windows\View\Window1.g.cs
+C:\Users\vanya\source\repos\5NET\5NET\obj\Debug\net6.0-windows\View\Window1.baml
+C:\Users\vanya\source\repos\5NET\5NET\5NET\bin\Debug\net6.0-windows\5NET.exe
+C:\Users\vanya\source\repos\5NET\5NET\5NET\bin\Debug\net6.0-windows\5NET.deps.json
+C:\Users\vanya\source\repos\5NET\5NET\5NET\bin\Debug\net6.0-windows\5NET.runtimeconfig.json
+C:\Users\vanya\source\repos\5NET\5NET\5NET\bin\Debug\net6.0-windows\5NET.dll
+C:\Users\vanya\source\repos\5NET\5NET\5NET\bin\Debug\net6.0-windows\5NET.pdb
+C:\Users\vanya\source\repos\5NET\5NET\5NET\bin\Debug\net6.0-windows\Prism.dll
+C:\Users\vanya\source\repos\5NET\5NET\5NET\obj\Debug\net6.0-windows\5NET.csproj.AssemblyReference.cache
+C:\Users\vanya\source\repos\5NET\5NET\5NET\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\vanya\source\repos\5NET\5NET\5NET\obj\Debug\net6.0-windows\View\Window1.g.cs
+C:\Users\vanya\source\repos\5NET\5NET\5NET\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\vanya\source\repos\5NET\5NET\5NET\obj\Debug\net6.0-windows\5NET_MarkupCompile.cache
+C:\Users\vanya\source\repos\5NET\5NET\5NET\obj\Debug\net6.0-windows\5NET_MarkupCompile.lref
+C:\Users\vanya\source\repos\5NET\5NET\5NET\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\vanya\source\repos\5NET\5NET\5NET\obj\Debug\net6.0-windows\View\Window1.baml
+C:\Users\vanya\source\repos\5NET\5NET\5NET\obj\Debug\net6.0-windows\5NET.g.resources
+C:\Users\vanya\source\repos\5NET\5NET\5NET\obj\Debug\net6.0-windows\5NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanya\source\repos\5NET\5NET\5NET\obj\Debug\net6.0-windows\5NET.AssemblyInfoInputs.cache
+C:\Users\vanya\source\repos\5NET\5NET\5NET\obj\Debug\net6.0-windows\5NET.AssemblyInfo.cs
+C:\Users\vanya\source\repos\5NET\5NET\5NET\obj\Debug\net6.0-windows\5NET.csproj.CoreCompileInputs.cache
+C:\Users\vanya\source\repos\5NET\5NET\5NET\obj\Debug\net6.0-windows\5NET.csproj.CopyComplete
+C:\Users\vanya\source\repos\5NET\5NET\5NET\obj\Debug\net6.0-windows\5NET.dll
+C:\Users\vanya\source\repos\5NET\5NET\5NET\obj\Debug\net6.0-windows\refint\5NET.dll
+C:\Users\vanya\source\repos\5NET\5NET\5NET\obj\Debug\net6.0-windows\5NET.pdb
+C:\Users\vanya\source\repos\5NET\5NET\5NET\obj\Debug\net6.0-windows\5NET.genruntimeconfig.cache
+C:\Users\vanya\source\repos\5NET\5NET\5NET\obj\Debug\net6.0-windows\ref\5NET.dll
+C:\Users\vanya\OneDrive\Рабочий стол\lox\5NET\5NET\5NET\bin\Debug\net6.0-windows\5NET.exe
+C:\Users\vanya\OneDrive\Рабочий стол\lox\5NET\5NET\5NET\bin\Debug\net6.0-windows\5NET.deps.json
+C:\Users\vanya\OneDrive\Рабочий стол\lox\5NET\5NET\5NET\bin\Debug\net6.0-windows\5NET.runtimeconfig.json
+C:\Users\vanya\OneDrive\Рабочий стол\lox\5NET\5NET\5NET\bin\Debug\net6.0-windows\5NET.dll
+C:\Users\vanya\OneDrive\Рабочий стол\lox\5NET\5NET\5NET\bin\Debug\net6.0-windows\5NET.pdb
+C:\Users\vanya\OneDrive\Рабочий стол\lox\5NET\5NET\5NET\bin\Debug\net6.0-windows\Prism.dll
+C:\Users\vanya\OneDrive\Рабочий стол\lox\5NET\5NET\5NET\obj\Debug\net6.0-windows\5NET.csproj.AssemblyReference.cache
+C:\Users\vanya\OneDrive\Рабочий стол\lox\5NET\5NET\5NET\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\vanya\OneDrive\Рабочий стол\lox\5NET\5NET\5NET\obj\Debug\net6.0-windows\View\Window1.g.cs
+C:\Users\vanya\OneDrive\Рабочий стол\lox\5NET\5NET\5NET\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\vanya\OneDrive\Рабочий стол\lox\5NET\5NET\5NET\obj\Debug\net6.0-windows\5NET_MarkupCompile.cache
+C:\Users\vanya\OneDrive\Рабочий стол\lox\5NET\5NET\5NET\obj\Debug\net6.0-windows\5NET_MarkupCompile.lref
+C:\Users\vanya\OneDrive\Рабочий стол\lox\5NET\5NET\5NET\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\vanya\OneDrive\Рабочий стол\lox\5NET\5NET\5NET\obj\Debug\net6.0-windows\View\Window1.baml
+C:\Users\vanya\OneDrive\Рабочий стол\lox\5NET\5NET\5NET\obj\Debug\net6.0-windows\5NET.g.resources
+C:\Users\vanya\OneDrive\Рабочий стол\lox\5NET\5NET\5NET\obj\Debug\net6.0-windows\5NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanya\OneDrive\Рабочий стол\lox\5NET\5NET\5NET\obj\Debug\net6.0-windows\5NET.AssemblyInfoInputs.cache
+C:\Users\vanya\OneDrive\Рабочий стол\lox\5NET\5NET\5NET\obj\Debug\net6.0-windows\5NET.AssemblyInfo.cs
+C:\Users\vanya\OneDrive\Рабочий стол\lox\5NET\5NET\5NET\obj\Debug\net6.0-windows\5NET.csproj.CoreCompileInputs.cache
+C:\Users\vanya\OneDrive\Рабочий стол\lox\5NET\5NET\5NET\obj\Debug\net6.0-windows\5NET.csproj.CopyComplete
+C:\Users\vanya\OneDrive\Рабочий стол\lox\5NET\5NET\5NET\obj\Debug\net6.0-windows\5NET.dll
+C:\Users\vanya\OneDrive\Рабочий стол\lox\5NET\5NET\5NET\obj\Debug\net6.0-windows\refint\5NET.dll
+C:\Users\vanya\OneDrive\Рабочий стол\lox\5NET\5NET\5NET\obj\Debug\net6.0-windows\5NET.pdb
+C:\Users\vanya\OneDrive\Рабочий стол\lox\5NET\5NET\5NET\obj\Debug\net6.0-windows\5NET.genruntimeconfig.cache
+C:\Users\vanya\OneDrive\Рабочий стол\lox\5NET\5NET\5NET\obj\Debug\net6.0-windows\ref\5NET.dll
+C:\Users\vanya\OneDrive\Рабочий стол\lox\5NET\5NET\5NET\obj\Debug\net6.0-windows\View\Window2.g.cs
+C:\Users\vanya\OneDrive\Рабочий стол\lox\5NET\5NET\5NET\obj\Debug\net6.0-windows\View\Window2.baml

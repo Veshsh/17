@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K+rnGdWR6/HSDQ9RjakGYoACBIujiBovFqOI+ClqsRb0DxmJba8JSk4fVYYM4AZ4ksKjuxkiwzEHvlfLpvU6tA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vanya\\OneDrive\\Рабочий стол\\lox\\5NET\\5NET\\5NET\\5NET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vanya\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}

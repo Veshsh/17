@@ -1,0 +1,23 @@
+﻿<Window x:Class="_5NET.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_5NET"
+        mc:Ignorable="d"
+        Title="MainWindow">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBox Text="{Binding Enter.Name}"/>
+        <TextBox Grid.Column="1" Text="{Binding Enter.Ip}"/>
+        <Button Content="Новый чат" Grid.Row="1" Command="{Binding Path=NP}"/>
+        <Button Content="Присоеденится к чату" Grid.Column="1" Grid.Row="1" Command="{Binding Path=CP}"/>
+    </Grid>
+</Window>
